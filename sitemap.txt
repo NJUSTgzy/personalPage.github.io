@@ -1,0 +1,4 @@
+http://example.com/2022/09/26/personalPage/
+http://example.com/2022/09/26/Skills/
+http://example.com/2022/09/26/hello-world/
+http://example.com/
